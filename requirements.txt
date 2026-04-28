@@ -1,0 +1,7 @@
+customtkinter
+sounddevice
+soundfile
+numpy
+faster-whisper
+openai
+python-dotenv

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Audio recordings
+recording.wav
+test.wav
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Notes (Local storage for app, but usually you want to sync Obsidian notes elsewhere or not commit them)
+Obsidian_Notes/
