@@ -5,7 +5,7 @@ import threading
 import numpy as np
 
 class AudioRecorder:
-    def __init__(self, output_filename="recording.wav", sample_rate=16000, channels=1):
+    def __init__(self, output_filename="recordings/recording.wav", sample_rate=16000, channels=1):
         self.output_filename = output_filename
         self.sample_rate = sample_rate
         self.channels = channels

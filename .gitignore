@@ -8,8 +8,8 @@ env/
 .env
 
 # Audio recordings
-recording.wav
-test.wav
+recordings/
+*.wav
 
 # IDEs
 .vscode/
